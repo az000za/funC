@@ -1,0 +1,2 @@
+# funC
+enriched function interface
